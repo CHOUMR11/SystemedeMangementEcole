@@ -45,7 +45,7 @@ The **School Management System** is a web application developed using **ASP.NET 
 ![Home](SchoolManagementSystem-master/Home.png)
 
 
-![Course](SchoolManagementSystem-master/Home2.png)
+(SchoolManagementSystem-master/Home2.png)
 
 
 ![Teacher Dashboard](SchoolManagementSystem-master/Home3.png)
